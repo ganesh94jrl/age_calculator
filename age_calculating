@@ -1,0 +1,4 @@
+present_year=2024
+birth_date=int(input("enter your birth_date:"))
+age=(present_year)-(birth_date)
+print("your_age is",age)
